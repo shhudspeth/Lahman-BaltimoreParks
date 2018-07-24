@@ -1,0 +1,12 @@
+,ind,address,long,lat,park_name,geo_code
+0,0,2501 Madison Ave Baltimore MD ,-76.63852290000001,39.3137315,Madison Avenue Grounds,<[OVER_QUERY_LIMIT] Google - Geocode [empty]>
+1,1,617 Baker St Baltimore MD ,-76.6409767,39.3076315,Newington Park,"<[OK] Google - Geocode [617 Baker St, Baltimore, MD 21217, USA]>"
+2,2,E 25th St & Greenmount Ave Baltimore MD ,-76.6094533,39.3181241,Oriole Park I,<[OVER_QUERY_LIMIT] Google - Geocode [empty]>
+3,3,414 Old Town Mall Baltimore MD ,-76.6055557,39.2951811,Belair Lot,"<[OK] Google - Geocode [414 Old Town Mall, Baltimore, MD 21202, USA]>"
+4,4,414 Old Town Mall Baltimore MD ,-76.60970669999998,39.2951811,Monumental Park,"<[OK] Google - Geocode [414 Old Town Mall, Baltimore, MD 21202, USA]>"
+5,5,2900 Greenmount Ave Baltimore MD ,-76.60970669999998,39.323592,Oriole Park II,"<[OK] Google - Geocode [2900 Greenmount Ave, Baltimore, MD 21218, USA]>"
+6,6,324 E 25th St Baltimore MD ,-76.6121064,39.3182872,Oriole Park III,"<[OK] Google - Geocode [324 E 25th St, Baltimore, MD 21218, USA]>"
+7,7,2900 Greenmount Ave Baltimore MD ,-76.60970669999998,39.323592,Oriole Park IV,"<[OK] Google - Geocode [2900 Greenmount Ave, Baltimore, MD 21218, USA]>"
+8,8,2900 Greenmount Ave Baltimore MD ,-76.60970669999998,39.323592,Terrapin Park,<[OVER_QUERY_LIMIT] Google - Geocode [empty]>
+9,9,E 33rd Street Baltimore MD ,-76.60295079999999,39.3284955,Memorial Stadium,"<[OK] Google - Geocode [E 33rd St, Baltimore, MD 21218, USA]>"
+10,10,"333 W Camden St, Baltimore, MD 21201 Baltimore MD ",-76.619919,39.2840361,Oriole Park at Camden Yards,<[OVER_QUERY_LIMIT] Google - Geocode [empty]>
